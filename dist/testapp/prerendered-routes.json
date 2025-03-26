@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/": {},
+    "/dynamic": {},
+    "/exam": {},
+    "/home": {},
+    "/student": {},
+    "/subject": {},
+    "/teacher": {}
+  }
+}

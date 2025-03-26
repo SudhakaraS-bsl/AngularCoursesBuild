@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>AngularCourses</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.disabled[_ngcontent-ng-c2757074921]{display:block}</style></head>
+<body><!--nghm--><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script><script>window.__jsaction_bootstrap(document.body,"ng",["click"],[]);</script>
+  <app-root ng-version="19.1.5" _nghost-ng-c2757074921 ngh="1" ng-server-context="ssg"><fieldset _ngcontent-ng-c2757074921><legend _ngcontent-ng-c2757074921><h3 _ngcontent-ng-c2757074921>Welcome to Angular course.!</h3></legend><div _ngcontent-ng-c2757074921><a _ngcontent-ng-c2757074921 routerlink="/home" href="/home" jsaction="click:;">Home</a> | <a _ngcontent-ng-c2757074921 routerlink="/dynamic" href="/dynamic" jsaction="click:;">Dynamic</a> | <a _ngcontent-ng-c2757074921 routerlink="/exam" href="/exam" jsaction="click:;">Exam</a> | <a _ngcontent-ng-c2757074921 routerlink="/student" href="/student" jsaction="click:;">Student</a> | <a _ngcontent-ng-c2757074921 routerlink="/subject" href="/subject" jsaction="click:;">Subject</a> | <a _ngcontent-ng-c2757074921 routerlink="/teacher" href="/teacher" jsaction="click:;">Teacher</a></div><div _ngcontent-ng-c2757074921 class="app"><main _ngcontent-ng-c2757074921><router-outlet _ngcontent-ng-c2757074921 style="background-color: green;"></router-outlet><app-exam ngh="0"><fieldset><legend><h4>Welcome to Exam</h4></legend><div>Bengaluru (value read from service property)</div></fieldset></app-exam><!----></main></div></fieldset></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-UZ2ZPAKD.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"24":[{"i":"c1537430817","r":1}]}}]}</script></body></html>`;
